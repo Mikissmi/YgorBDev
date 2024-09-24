@@ -9,7 +9,7 @@ ________________________________________________________________________________
 )](https://github.com/YgorBDev)
 
 ![Ygor's GitHub stats](https://github-readme-stats.vercel.app/api?username=YgorBDev&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/toplangs/username=YgorBDev&layout=compact)
+
 __________________________________________________________________________________________________________________________________________________________________________
 
 ### Tecnologias
