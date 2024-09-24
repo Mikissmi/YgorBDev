@@ -8,9 +8,9 @@ ________________________________________________________________________________
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 )](https://github.com/YgorBDev)
 
-[![Ygor's GitHub stats](https://github-readme-stats.vercel.app/api?username=YgorBDev)](https://github.com/YgorBDev/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YgorBDev&layout=compact)
-_____________________________________________________________________________________________________________________________________________________________________________
+![Ygor's GitHub stats](https://github-readme-stats.vercel.app/api?username=YgorBDev&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/toplangs/username=YgorBDev&layout=compact)
+__________________________________________________________________________________________________________________________________________________________________________
 
 ### Tecnologias
 
