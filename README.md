@@ -5,5 +5,20 @@ ________________________________________________________________________________
 )](https://www.instagram.com/ygor.bitencourt.125/)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/ygor-bitencourt-2438332a4/)
+[![GitHub]()](https://github.com/YgorBDev)
 
-![Ygor's GitHub stats](https://github-readme-stats.vercel.app/api?username=YgorBDev&show_icons=true&theme=radical)
+![Ygor's GitHub stats](https://github-readme-stats.vercel.app/api?username=YgorBDev&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YgorBDev&layout=compact)
+_____________________________________________________________________________________________________________________________________________________________________________
+
+### Tecnologias
+
+[![Linux]()]()
+[![Ubuntu]()]()
+[![Windows](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)]()
+
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
+[![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
+
